@@ -1,5 +1,5 @@
 ## About Harambee
-Harambee script allows you to effortlessly launch a crowdfunding platform where users can create unlimited campaigns to help those in need or raise funds for community projects. Its based on laravel 10 PHP framework.
+Harambee *(swahili word for "all pull together")* script allows you to effortlessly launch a crowdfunding platform where users can create unlimited campaigns to help those in need or raise funds for community projects. Its based on laravel 10 PHP framework.
 
 ![Home Page Screenshot](screenshots/homepage.png)
 _Application landing page._
@@ -39,7 +39,7 @@ The application comes with an admin dashboard fully packed with features such as
 ## Installation
 
 ### Server Requirements
-The application is built on top of Laravel 10 Php Framework which requires the following web server requirements:
+The application is built on top of Laravel 10 Php Framework which requires a web server with the following requirements:
 
 - **PHP >= 8.1**
 - **Ctype PHP Extension**
