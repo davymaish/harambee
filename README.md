@@ -71,7 +71,7 @@ Setup the database without seeding: `php artisan migrate`
 Delete all contents inside the public directory in the storage folder. It contains application dummy files. `storage\app\public`
 
 ## Credits and Acknowledgements
- The project is developed and maintained by [David Maina](davymaish.github.io).
+ The project is developed and maintained by [David Maina](https://davymaish.github.io).
 
 - [Laravel 10](http://laravel.com/).
 - [jQuery](http://jquery.com/).
@@ -97,5 +97,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any inquiries or feedback, feel free to contact me via:
 
-- Website: [davymaish.github.io](davymaish.github.io)
+- Website: [davymaish.github.io](https://davymaish.github.io)
 - Email: [davidmainadmg05@gmail.com](mailto:davidmainadmg05@gmail.com)
