@@ -41,20 +41,20 @@ The application comes with an admin dashboard fully packed with features such as
 ### Server Requirements
 The application is built on top of Laravel 10 Php Framework which requires the following web server requirements:
 
-**PHP >= 8.1**
-**Ctype PHP Extension**
-**cURL PHP Extension**
-**DOM PHP Extension**
-**Fileinfo PHP Extension**
-**Filter PHP Extension**
-**Hash PHP Extension**
-**Mbstring PHP Extension**
-**OpenSSL PHP Extension**
-**PCRE PHP Extension**
-**PDO PHP Extension**
-**Session PHP Extension**
-**Tokenizer PHP Extension**
-**XML PHP Extension**
+- **PHP >= 8.1**
+- **Ctype PHP Extension**
+- **cURL PHP Extension**
+- **DOM PHP Extension**
+- **Fileinfo PHP Extension**
+- **Filter PHP Extension**
+- **Hash PHP Extension**
+- **Mbstring PHP Extension**
+- **OpenSSL PHP Extension**
+- **PCRE PHP Extension**
+- **PDO PHP Extension**
+- **Session PHP Extension**
+- **Tokenizer PHP Extension**
+- **XML PHP Extension**
 
 ### Instructions
 
@@ -73,13 +73,13 @@ Delete all contents inside the public directory in the storage folder. It contai
 ## Credits and Acknowledgements
  The project is developed and maintained by [David Maina](davymaish.github.io).
 
- [Laravel 10](http://laravel.com/).
- [jQuery](http://jquery.com/).
- [Bootstrap 5](http://getbootstrap.com/).
- [Font Awesome 4](http://fortawesome.github.io/Font-Awesome/).
- [Fonts](https://www.google.com/fonts).
- [Ckeditor](https://ckeditor.com/).
- [MetisMenu](https://github.com/onokumus/metisMenu/).
+- [Laravel 10](http://laravel.com/).
+- [jQuery](http://jquery.com/).
+- [Bootstrap 5](http://getbootstrap.com/).
+- [Font Awesome 4](http://fortawesome.github.io/Font-Awesome/).
+- [Fonts](https://www.google.com/fonts).
+- [Ckeditor](https://ckeditor.com/).
+- [MetisMenu](https://github.com/onokumus/metisMenu/).
 
 ## Contributing
 
