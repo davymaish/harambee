@@ -87,7 +87,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within this project, please send an e-mail to me via [davidmainadmg05@gmail.com](mailto:davidmainadmg05@gmail.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within this project, please send an e-mail to me via [davymaish6@gmail.com](mailto:davymaish6@gmail.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
@@ -98,4 +98,4 @@ This project is licensed under the [MIT License](LICENSE).
 For any inquiries or feedback, feel free to contact me via:
 
 - Website: [davymaish.github.io](https://davymaish.github.io)
-- Email: [davidmainadmg05@gmail.com](mailto:davidmainadmg05@gmail.com)
+- Email: [davymaish6@gmail.com](mailto:davymaish6@gmail.com)
