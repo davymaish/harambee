@@ -87,7 +87,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within this project, please send an e-mail to me via [davymaish6@gmail.com](mailto:davymaish6@gmail.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within this project, please send an e-mail to me via [davymaish6@gmail.com](mailto:davymaish6@gmail.com). All security vulnerabilities will be promptly addressed and sorted out.
 
 ## License
 
